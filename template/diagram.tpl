@@ -1,0 +1,1 @@
+<image src="php/diagram.php" width="100%" />
